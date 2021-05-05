@@ -1,4 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://imsamtar.github.io"  target="_blank">Sameer!</a> 👋</h1>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=imsamtar alt=imsamtar/> </p>
+
+```svelte
+<script lang="ts">
+    $: msg = 'Hello World!';
+</script>
+
+<h1>{msg}</h1>
+```
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=imsamtar&show_icons=true&theme=tokyonight alt=imsamtar /> </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsamtar&theme=tokyonight" alt="imsamtar" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamtar&layout=compact&theme=tokyonight&langs_count=10" alt="imsamtar" />
+</p>
+
 
 <!--
 **imsamtar/imsamtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
