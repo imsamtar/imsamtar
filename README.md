@@ -14,9 +14,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsamtar&theme=tokyonight" alt="imsamtar" /></p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsamtar&layout=compact&theme=tokyonight&langs_count=10&hide=php,c++,tsql,hack,java,kotlin,swift,objective-c" alt="imsamtar" />
-</p>
+</p> -->
 
 
 <!--
