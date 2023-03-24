@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://imsamtar.github.io"  target="_blank">Sameer!</a> 👋</h1>
+<!--<h1 align="center">Hi there, I'm <a href="https://imsamtar.github.io"  target="_blank">Sameer!</a> 👋</h1>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=imsamtar alt=imsamtar/> </p>
 
